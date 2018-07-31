@@ -1,0 +1,4 @@
+[submodule "viewer"]
+	path = viewer
+	url = git@github.com:rdgomt/tcc-viewer.github.io.git
+	branch = master
