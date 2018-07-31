@@ -4,6 +4,11 @@
 
 http://mapshaper.org/
 
+## Options
+
+Detect line intersections  
+Snap vertices
+
 ## Method 
 
 Visvalingam / weighted area
