@@ -1,10 +1,11 @@
 // Posição inicial do mapa (coordenadas LatLong e Zoom)
-const posicaoInicial = [-30.47, -53.675, 7]
+const posicaoInicial = [-30.47713, -53.6475, 7]
 
 // Inicializa o mapa
 const map = new L.map('map', {
     center: new L.LatLng(posicaoInicial[0], posicaoInicial[1]), 
-    zoom: posicaoInicial[2],            
+    zoom: posicaoInicial[2],
+    defaultExtentControl: true          
 })      
 
 // Tile Layers
