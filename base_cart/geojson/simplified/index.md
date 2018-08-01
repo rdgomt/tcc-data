@@ -1,21 +1,25 @@
-# Simplification process
+# Processo de simplificação
 
-## Algorithm 
+## Algoritmo
 
 http://mapshaper.org/
 
-## Options
+## Opções
 
 Detect line intersections  
 Snap vertices
 
-## Method 
+## Método 
 
 Visvalingam / weighted area
 
-## Parameters
+## Parâmetros
 
 Divisa estadual: 5%  
 Municípios: 3%  
 Biomas: 2,5%  
 Bacias hidrográficas: 1%
+
+## Observações
+
+Para o arquivo de Municípios foi realizado um reparo de geometria (Line intersection) pelo próprio software. Os demais não apresentaram nenhuma falha topológica.
