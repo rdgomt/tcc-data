@@ -1,0 +1,4 @@
+"COD_USO" = 3 OR
+"COD_USO" = 7 OR
+"COD_USO" = 8 OR
+"COD_USO" = 9

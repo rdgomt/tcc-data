@@ -1,0 +1,10 @@
+"COD_USO" = 2 OR
+"COD_USO" = 22 OR
+"COD_USO" = 23 OR
+"COD_USO" = 24 OR
+"COD_USO" = 4 OR
+"COD_USO" = 44 OR
+"COD_USO" = 5 OR
+"COD_USO" = 6 OR
+"COD_USO" = 11 OR
+"COD_USO" = 12
