@@ -1,0 +1,29 @@
+# Legenda
+
+Cód. | Nome | Legenda
+-----|------|--------
+1 | Água | Contempla todos os tipos de águas continentais, tanto as naturais como rios, arroios, lagos, lagoas e lagunas, bem como os corpos d’água artificiais como lagos de barragens e açudes.
+2 | Mata Nativa | Abrange todas formações arbóreas nativas em que não há sinal evidente de degradação. Assim, as diferentes fisionomias florestais, como, por exemplo, Floresta Ombrófila Densa, Floresta Ombrófila Mista, Floresta Estacional Decidual, Matas Paludosas e Matas Ciliares, fazem parte dessa classe.
+22 | Mata com até 30% de antrópico | Contempla as formações arbóreas nativas do estado em áreas com um baixo/moderado grau de antropização, onde as porções antrópicas encontram-se dispersas no interior do polígono de mata (o que impede a sua delimitação exata) e/ou costumam ser inferiores a área mínima mapeável. Assim, existe um predomínio de mata nativa em relação às áreas antropizadas na razão máxima de 70/30% nos polígonos desta classe.
+23 | Mata com até 50% de antrópico | Contempla as formações arbóreas nativas em áreas com um alto grau antropização. Contudo, considera-se que ainda haja predomínio de mata nativa em relação às áreas antropizadas ou que as proporções de cobertura encontram-se na razão máxima de 50/50% nos polígonos desta classe.
+24 | Mata + Campo + Afloramento | Representa um mosaico de vegetação onde a matriz é predominantemente arbórea e as formações campestres ocorrem em manchas ou fragmentos na paisagem. Adicionalmente, uma ou ambas as formações vegetais podem estar associadas a afloramentos rochosos. Contudo, a presença de afloramentos rochosos não é obrigatória para a inclusão de áreas nesta classe da legenda.
+3 | Silvicultura | Contempla as diferentes formas de cobertura associadas à atividade de silvicultura, especialmente no que tange o cultivo de espécies arbóreas exóticas (ex. Pinus sp., Acacia sp., Eucalyptus sp.). As áreas que se encontram momentaneamente cortadas, embora permaneçam no ciclo desta atividade econômica, também são incluídas nesta classe.
+4 | Campo Seco | Abrange diversas formações herbáceas e herbáceo/arbustivas nativas em que não há sinal evidente de degradação. Assim, as diferentes fisionomias predominantemente campestres, como, por exemplo, Campo com Barba-de-Bode, Campo com Espinilho, Campo com Flechilhas e Campo Litorâneo fazem parte dessa classe. Também abrange mosaicos de vegetação em que a matriz é predominantemente campestre, com formações florestais em manchas ou fragmentos na paisagem e, eventualmente, uma ou ambas as formações vegetais associadas a afloramentos rochosos.
+44 | Campo de feixe de restinga | Formação campestre que ocorre na transição entre o mar e as lagoas litorâneas sobre feixes arenosos que formavam a linha de costa no passado. Esta formação herbácea e herbáceo/arbustiva é facilmente identificável pelo padrão estriado visível nas imagens de satélite.
+49 | Campo degradado | Abrange diversas formações herbáceas e herbáceo/arbustivas em que há sinal evidente de degradação antrópica. Os mais diversos tipos de degradação estão contemplados nesta classe, sendo os mais comuns um uso pretérito da área com agricultura ou uma superexploração da pecuária. Adicionalmente, as áreas de pousio na rizicultura também são incorporadas nesta classe.
+5 | Campo Úmido | Fisionomia campestre, sem evidência de degradação, associada a porções baixas de terreno onde há acúmulo de umidade ou lâmina d’água em períodos curtos do ano.
+6 | Banhado | Formação vegetal natural associada às zonas úmidas e/ou áreas sazonalmente alagadas. Apresenta diversas fisionomias, variando de áreas cobertas por plantas aquáticas, ou por espécies herbáceas, e herbáceo-arbustivas adaptadas a ambientes úmidos.
+7 | Rizicultura | Abrange o cultivo de arroz em áreas que necessitam de irrigação ou em várzeas de corpos d’água e banhados.
+8 | Agricultura seco | Areas agrícolas com culturas anuais durante o verão (exceto a rizicultura), e forragens/pastagens ou cereais durante o inverno.
+9 | Misto | Classe intrinsecamente associada à produção em pequenas propriedades, onde costuma haver uma utilização heterogênea do solo. Padrão típico da Região Colonial do estado ou da periferia de grandes e médias cidades.
+10 | Areais | Formação geomorfológica típica da região oeste do estado, caracterizada por extensas áreas com solo arenoso exposto ou que apresentam uma baixíssima cobertura vegetal. Formam-se a partir de ravinas ou voçorocas, e são expandidas pela erosão hídrica/eólica, podendo ser acelerados pela atividade antrópica, como agricultura ou superexploração da pecuária.
+11 | Areia | A classe compreende as praias marinhas, as praias fluviais e lacustres, além das dunas litorâneas.
+12 | Afloramento | Formações geológicas como inselbergs e encostas de serras, em que naturalmente ocorre a exposição da rocha matriz na superfície terrestre, seja em função de processos de orogenéticos ou erosivos.
+13 | Urbano | Cidades e vilas que possuem superfícies heterogêneas contínuas, resultado do adensamento de casas, prédios, vias e outras formas de edificações.
+14 | Mineração | Contempla todas as formas de exploração mineral que resultam em significativa remoção da cobertura vegetal original e na posterior exposição de rochas ou solo.
+
+# Fonte
+
+Hasenack, H.; Cordeiro, J.L.P; Weber, E.J. (Org.). Uso e cobertura vegetal do Estado do Rio Grande do Sul – situação em 2002. Porto Alegre: UFRGS IB Centro de Ecologia, 2015. 1a ed. ISBN 978-85-63843-15-9. Disponível em: http://www.ecologia.ufrgs.br/labgeo
+
+Weber, E.J.; Hoffmann, G.S.; Oliveira, C.V.; Hasenack, H. (Org.). Uso e cobertura vegetal do Estado do Rio Grande do Sul – situação em 2009. Porto Alegre: UFRGS IB Centro de Ecologia, 2016. 1a ed. ISBN 978-85-63843-20-3. Disponível em: http://www.ecologia.ufrgs.br/labgeo
