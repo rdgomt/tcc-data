@@ -1,0 +1,5 @@
+Silvicultura (código 3)
+Rizicultura (código 7)
+Agricultura seco (código 8)
+Misto (código 9)
+Campo degradado (código 49)
