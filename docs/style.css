@@ -6,6 +6,11 @@ body {
 	display: flex;
 	flex-direction: row;
 }
+
+#sidebar {
+	display: none;
+}
+
 #map {
 	width: 900px; 
 	height: 100%;
